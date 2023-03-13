@@ -12,12 +12,12 @@ namespace ListaExercicios01.Exercicio02
         static void Main(string[] args)
         {
             // Declaração de Variáveis
-            double F;
-            double C;
+            decimal F;
+            decimal C;
 
             //Solicita e lê a informação da temperatura na escala 
             Console.Write("\t\tPor favor informe a temperatura na escala Fahrenheit: ");
-            F = Double.Parse(Console.ReadLine());
+            F = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine();
 
             // Efetua a conversão de temperatura       

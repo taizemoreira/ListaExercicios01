@@ -16,6 +16,7 @@ namespace CalculoConsumoCombustivel
             double quilometragemInicial;
             double quilometragemFinal;
             double litrosConsumidos;
+            double distanciaPercorrida;
 
             //solicitando dados ao usuario
             Console.WriteLine("Qual a quilometragem inicial?");
