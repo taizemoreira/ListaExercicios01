@@ -2,7 +2,7 @@
 using System;
 namespace ListaExercicios01.Exercicio20
 {
-    internal class Exercicio20
+    public class Exercicio20
     {
         static void Main(string[] args)
         {           

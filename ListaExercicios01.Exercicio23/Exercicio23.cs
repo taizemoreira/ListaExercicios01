@@ -11,12 +11,12 @@ namespace ListaExercicios01.Exercicio23
     {
         static void Main(string[] args)
         {
-            for (int i = 100; i <= 200; i++)
+            for (int i = 101; i <= 199; i += 2)
             {
-                if (i % 2 == 1)
-                {
-                    Console.WriteLine($"Número ímpar: {i}");
-                }
+                //if (i % 2 == 1)
+                //{
+                //    Console.WriteLine($"Número ímpar: {i}");
+                //}
             }
         }
     }
