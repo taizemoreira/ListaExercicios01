@@ -22,7 +22,7 @@ namespace CalculaVolumeEsfera
             //calculo
             // V= 4/3*pi*r^3
 
-            volumeEsfera = (4 / 3) * pi * Math.Pow(raio, 3);
+            volumeEsfera = (4.0 / 3.0) * pi * Math.Pow(raio, 3);
 
             //Resultado
             Console.WriteLine($"\nO volume da esfera é: " + volumeEsfera);
