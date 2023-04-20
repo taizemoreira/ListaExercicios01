@@ -1,11 +1,11 @@
 <h1 align="center">
-📃
-Lista de Exercícios Lógica de Programação 
+📃<br>
+Lista de Exercícios Lógica de Programação<br>
 Utilizando a Linguagem C#
 </a>
 </h1>
 
-### Entrada, Processamento e Saída de Dados
+### ▶️ Entrada, Processamento e Saída de Dados
 1. Crie um programa para calcular o volume de uma caixa retangular
 2. Crie um programa para converter a temperatura de graus Fahrenheit para graus Celsius
 3. Crie um programa para calcular o volume de um Cilindro
@@ -34,7 +34,7 @@ uma temperatura Celsius e imprima em Fahrenheit (pesquise como fazer este tipo d
 16. Faça um algoritmo para ler o salário de um funcionário e aumentá-lo em 15%. Após o aumento, desconte 8% de
 impostos. Imprima o salário inicial, o salário com o aumento e o salário final.
 
-## Estruturas de Decisão
+### ⏯️ Estruturas de Decisão
 
 17. Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é menor que C.
 18. Escreva um algoritmo que leia três valores inteiros e diferentes e mostre-os em ordem decrescente.
@@ -54,7 +54,7 @@ contrário multiplique A por B.
 22. Ao final de qualquer um dos cálculos deve-se atribuir o resultado para uma variável C e mostrar seu conteúdo
 na tela.
 
-### Estruturas de Repetição
+### 🔁 Estruturas de Repetição
 23. Escrever um algoritmo que gera e escreve os números ímpares entre 100 e 200.
 24. Desenvolver um algoritmo que efetue a soma de todos os números ímpares que são múltiplos de três e que se
 encontram no conjunto dos números de 1 até 500.
@@ -79,4 +79,3 @@ ambos, use &quot;FizzBuzz&quot;.
 todas as combinações de multiplicação entre 1 e 10, exibindo o resultado de cada operação na tela.
 a. Desafio: Para cada número, tente separar em colunas.
 
-**Back-end:** C#
