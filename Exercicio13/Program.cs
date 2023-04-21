@@ -38,7 +38,7 @@ namespace LerCalcularDadosPadaria
 
             // Cálculo da porcentagem
             double totalVendasFinalDia = (quantidadePaozinhosVendidos * totalVendaPaozinho) + (quantidadeBroasVendidas * totalVendaBroas);
-            double valorPoupanca = totalVendasFinalDia * 0.1;
+            double valorPoupanca = totalVendasFinalDia/10;
 
             Console.WriteLine("O valor total arrecadado foi de R$" + totalVendasFinalDia.ToString("F2")); //função que formata um número com duas casas decimais.
             Console.WriteLine("O valor a ser guardado na poupança é de R$" + valorPoupanca.ToString("F2"));
