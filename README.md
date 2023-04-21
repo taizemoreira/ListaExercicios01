@@ -41,13 +41,13 @@ impostos. Imprima o salário inicial, o salário com o aumento e o salário fina
 19. O IMC – Índice de Massa Corporal é um critério da Organização Mundial de Saúde para dar uma indicação sobre
 a condição de peso de uma pessoa adulta. A fórmula é IMC = peso / (altura) ². Elabore um algoritmo que leia o
 peso e a altura de um adulto e mostre sua condição de acordo com a listagem abaixo:
- IMC em adultos Condição
- Abaixo de 18,5
- Abaixo do peso
- Entre 18,5 e 25 Peso normal
- Entre 25 e 30
- Acima do peso
- Acima de 30 obeso
+- IMC em adultos Condição<br>
+- Abaixo de 18,5<br>
+- Abaixo do peso<br>
+- Entre 18,5 e 25 Peso normal<br>
+- Entre 25 e 30<br>
+- Acima do peso<br>
+- Acima de 30 obeso<br>
 20. Faça um algoritmo para receber um número qualquer e informar na tela se é par ou ímpar.
 21. Faça um algoritmo que leia dois valores inteiros A e B, se os valores forem iguais deverá se somar os dois, caso
 contrário multiplique A por B.
@@ -60,22 +60,22 @@ na tela.
 encontram no conjunto dos números de 1 até 500.
 25. Escrever um algoritmo que leia um valor para uma variável N de 1 a 10 e calcule a tabuada de N. Mostre a
 tabuada na forma:
- 0 x N = 0,
- 1 x N = 1N,
- 2 x N = 2N,
-.
-.
-.
- 10 x N = 10N.
+- 0 x N = 0,<br>
+- 1 x N = 1N,<br>
+- 2 x N = 2N,<br>
+.<br>
+.<br>
+.<br>
+- 10 x N = 10N.
 26. Escreva um algoritmo que leia um valor inicial A e imprima a sequência de valores do cálculo de A! e o seu
-resultado.
-a. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120
-b. Pesquise sobre “fatorial”
+resultado.<br>
+a. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120<br>
+b. Pesquise sobre “fatorial”<br>
 27. Escreva um programa que leia um número e imprima a sequência de Fibonacci até esse número.
 28. Escreva um programa que imprima os números de 1 a 100 em ordem crescente, substituindo os números
-múltiplos de 3 pela palavra &quot;Fizz&quot; e os múltiplos de 5 pela palavra &quot;Buzz&quot;. Para números que são múltiplos de
+múltiplos de 3 pela palavra &quot;Fizz&quot; e os múltiplos de 5 pela palavra &quot;Buzz&quot;.<br> Para números que são múltiplos de
 ambos, use &quot;FizzBuzz&quot;.
 29. Escreva um programa que exiba a tabuada de multiplicação do 1 até o 10. Para isso, o programa deve gerar
-todas as combinações de multiplicação entre 1 e 10, exibindo o resultado de cada operação na tela.
+todas as combinações de multiplicação entre 1 e 10, exibindo o resultado de cada operação na tela.<br>
 a. Desafio: Para cada número, tente separar em colunas.
 
