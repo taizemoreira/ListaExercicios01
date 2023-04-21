@@ -70,7 +70,7 @@ tabuada na forma:
 26. Escreva um algoritmo que leia um valor inicial A e imprima a sequência de valores do cálculo de A! e o seu
 resultado.<br>
 a. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120<br>
-b. Pesquise sobre “fatorial”<br>
+b. Pesquise sobre “fatorial”
 27. Escreva um programa que leia um número e imprima a sequência de Fibonacci até esse número.
 28. Escreva um programa que imprima os números de 1 a 100 em ordem crescente, substituindo os números
 múltiplos de 3 pela palavra &quot;Fizz&quot; e os múltiplos de 5 pela palavra &quot;Buzz&quot;.<br> Para números que são múltiplos de
