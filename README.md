@@ -47,7 +47,7 @@ peso e a altura de um adulto e mostre sua condição de acordo com a listagem ab
 - Entre 18,5 e 25 Peso normal<br>
 - Entre 25 e 30<br>
 - Acima do peso<br>
-- Acima de 30 obeso<br> ✔️
+- Acima de 30 obeso ✔️
 20. Faça um algoritmo para receber um número qualquer e informar na tela se é par ou ímpar. ✔️
 21. Faça um algoritmo que leia dois valores inteiros A e B, se os valores forem iguais deverá se somar os dois, caso
 contrário multiplique A por B. ✔️
