@@ -65,11 +65,11 @@ tabuada na forma:
 - 2 x N = 2N,<br>
 .<br>
 .<br>
-.<br>
+.
 - 10 x N = 10N. ✔️
 26. Escreva um algoritmo que leia um valor inicial A e imprima a sequência de valores do cálculo de A! e o seu
 resultado.<br>
-a. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120<br> 
+a. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120
 b. Pesquise sobre “fatorial” ✔️
 27. Escreva um programa que leia um número e imprima a sequência de Fibonacci até esse número. ✔️
 28. Escreva um programa que imprima os números de 1 a 100 em ordem crescente, substituindo os números 
